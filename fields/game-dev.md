@@ -6,7 +6,7 @@
 | Amethyst		| Rust												| [amethyst.rs](https://amethyst.rs) |
 | Babylon.js	| JavaScript										| [babylonjs.com](https://babylonjs.com) |
 | Bevy			| Rust												| [bevyengine.org](https://bevyengine.org) |
-| Cocos2d		| C++, JavaScript, Java, Lua, Objective-C, Python	| [cocos2d.org](https://cocos2d.org) |
+| Cocos2d		| C++, JavaScript, Java, Lua, Objective-C, Python	| [cocos2d.org](http://cocos2d.org) |
 | Defold		| Lua												| [defold.com](https://defold.com) |
 | Gdevelop		| JavaScript										| [gdevelop-app.com](https://gdevelop-app.com) |
 | Godot			| C++, C#, GDScript, VisualScript					| [godotengine.org](https://godotengine.org) |
